@@ -1,2 +1,2 @@
 # EggRepositorio
-Pull request exercise
+Estoy aprendiendo Pull request exercise
